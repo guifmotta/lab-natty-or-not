@@ -14,4 +14,4 @@ Utilizei o "ChatGPT" para revisar e complementar minhas pesquisas sobre IAs Gene
 ## 🚀 Resultados
 O e-book apresenta os impactos das IA Generativas em diversas áreas e nos traz diversas reflexões para o futuro.
 
-[LINK PARA O E-BOOK]()
+[LINK PARA O E-BOOK](https://github.com/guifmotta/lab-natty-or-not/blob/main/IA%20Generativa.pdf)
